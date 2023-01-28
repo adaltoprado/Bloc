@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class CounterBlocPage extends StatelessWidget {
-  const CounterBlocPage({Key? key}) : super(key: key);
+class CounterCubitPage extends StatelessWidget {
+  const CounterCubitPage({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Counter Bloc'),
+        title: const Text('Counter Cubit'),
       ),
       body: Center(
           child: Column(
