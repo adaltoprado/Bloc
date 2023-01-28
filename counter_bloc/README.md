@@ -1,4 +1,4 @@
-# Counter_bloc
+# Counter_Bloc
 
 A new Flutter project.
 
